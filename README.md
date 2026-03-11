@@ -1,5 +1,5 @@
 
-# Facial Emotion Recognition using Deep Learning
+# Facial Emotion Recognition using VGG Model
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
